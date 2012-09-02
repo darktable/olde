@@ -1,0 +1,15 @@
+
+/Temp
+/Library
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-Editor-vs.csproj
+/Assembly-CSharp-firstpass.csproj
+/Assembly-CSharp-firstpass-vs.csproj
+/Assembly-CSharp-vs.csproj
+/Assembly-UnityScript-firstpass.unityproj
+/Assembly-UnityScript-firstpass-vs.unityproj
+/olde.sln
+/olde-csharp.sln
+*.pidb
+*.userprefs
